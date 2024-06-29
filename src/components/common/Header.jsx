@@ -26,7 +26,7 @@ const Header = () => {
   const MenuInfo = [
     {
       title: "File",
-      content: "coming soon"
+      content: "All Files"
     },
     {
       title: "Add Library",
