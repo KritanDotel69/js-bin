@@ -30,10 +30,6 @@ const CodingSection = () => {
     setOutput(combinedOutput)
   ), [htmlValue, cssValue, jsValue])
 
-  //hey
-
-
-
 
   return (
     <div>
